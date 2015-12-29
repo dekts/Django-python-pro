@@ -1,4 +1,4 @@
-# Django_dev_pro
+# Django-python-pro
 Small Django project of Bookmark Blog
 
 Note: Under Linux and Mac OS X root privileges may be required.
@@ -20,7 +20,7 @@ After a successful upgrade or installation, you can test pip as follows:
 $ pip --version
 
 For create virtual host then remove the index.html file.
-make sure that you need to install
+For that you need to install
 
 $ sudo pip install --upgrade Django==1.8.2
 
