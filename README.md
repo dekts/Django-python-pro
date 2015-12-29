@@ -1,5 +1,5 @@
 # Django-python-pro
-Small Django project of Bookmark Blog
+Simple Django project of Bookmark Blog
 
 Note: Under Linux and Mac OS X root privileges may be required.
 
