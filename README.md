@@ -34,3 +34,6 @@ To install both packages execute:
 
 $ pip install pytz django-crispy-forms
 
+Contributors
+
+If anyone out there wants to add AI, better art, online multiplayer, etc. I'd be more than happy to accept input or collaborate.
