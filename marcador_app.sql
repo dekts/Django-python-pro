@@ -114,8 +114,8 @@ CREATE TABLE IF NOT EXISTS `auth_user` (
 --
 
 INSERT INTO `auth_user` (`id`, `password`, `last_login`, `is_superuser`, `username`, `first_name`, `last_name`, `email`, `is_staff`, `is_active`, `date_joined`) VALUES
-(1, 'pbkdf2_sha256$20000$Ux1XS82osfbH$eqIV/GkOqJgppVEK9ypQA/wUPxI58J9+i/TtjCOEilM=', '2015-12-28 12:01:59', 1, 'admin', 'jack', 'sparrow', 'jpirates1@gmail.com', 1, 1, '2015-12-15 12:01:49'),
-(2, 'pbkdf2_sha256$20000$ZsBiE3UPnO6F$vTYSEDbeJlU2qNO8uIZ0oCj5UBTO5M4e4SZXYtPfXxo=', '2015-12-28 11:33:59', 0, 'devat73', 'Devat', 'Karetha', 'jpirates1@gmail.com', 1, 1, '2015-12-28 05:21:41');
+(1, 'your password', '2015-12-28 12:01:59', 1, 'admin', 'jack', 'sparrow', 'jpirates1@gmail.com', 1, 1, '2015-12-15 12:01:49'),
+(2, 'your password', '2015-12-28 11:33:59', 0, 'devat73', 'Devat', 'Karetha', 'jpirates1@gmail.com', 1, 1, '2015-12-28 05:21:41');
 
 -- --------------------------------------------------------
 
