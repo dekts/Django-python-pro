@@ -3,6 +3,8 @@ Simple Django project of Bookmark Blog
 
 Note: Under Linux and Mac OS X root privileges may be required.
 
+INSTALLATION
+
 Django is written completely in Python. Therefore Python needs to be installed first.
 
 $ sudo apt-get install python2.7.6
@@ -34,6 +36,6 @@ To install both packages execute:
 
 $ pip install pytz django-crispy-forms
 
-Contributors
+CONTRIBUTORS
 
 If anyone out there wants to add AI, better art, online multiplayer, etc. I'd be more than happy to accept input or collaborate.
