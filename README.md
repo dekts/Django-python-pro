@@ -3,6 +3,12 @@ Simple Django project of Bookmark Blog
 
 Note: Under Linux and Mac OS X root privileges may be required.
 
+Here i have two database file
+1) for mysql
+2) for sqlite
+
+so you need to change your setting.py as your requirement.
+
 INSTALLATION
 
 Django is written completely in Python. Therefore Python needs to be installed first.
